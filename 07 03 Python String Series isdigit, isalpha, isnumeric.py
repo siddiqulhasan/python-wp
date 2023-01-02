@@ -1,5 +1,5 @@
 '''
-'isalnum', 'isalpha', 'ascii', 'isprintable', 'isnumeric', 'isdecimal', 'isdigit',
+'isalnum', 'isalpha', 'ascii', 'isprintable', 'isnumeric', '', 'isdigit',
 '''
 
 num1 = '1234565412'
